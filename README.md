@@ -13,7 +13,7 @@ Data used in the analysis can be downloaded at https://www.yelp.com/dataset.
 
 # Project Motivation
 This project was done as part of Udacity's Data Scientist Nanodegree. A yelp academic dataset was explored and the following questions were answered:
-1. Is there a difference in the business stars by major categories (Restaurants, Shopping, Nightlife, ...)? Any differences in Restaurant categories?
+1. Are there differences in the star ratings by major categories (Restaurants, Shopping, Nightlife, ...)? Any differences in Restaurant categories?
 2. What affects if a business will close?
 3. Does vicinity to other similar business help or hurt ratings?
 
