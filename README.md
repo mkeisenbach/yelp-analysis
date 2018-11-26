@@ -28,3 +28,8 @@ There is also a ProcessData.py file which contains functions for processing data
 
 ## Results
 The results of the analysis are presented in a <a href="https://medium.com/@mei.eisenbach/so-you-want-to-open-a-restaurant-4b305061b8a0">Medium Post</a>.
+
+Main findings:
+- Restaurants have the lowest stars ratings compared to other types of businesses. Cafes have the highest average ratings within restaurants.
+- The location of the business has the largest effect on whether it will stay open or not.
+- You don’t need to be around other restaurants to get a good rating.
